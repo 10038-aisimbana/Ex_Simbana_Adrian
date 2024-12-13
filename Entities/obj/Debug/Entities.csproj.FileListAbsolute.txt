@@ -1,0 +1,6 @@
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\Entities\bin\Debug\Entities.dll
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\Entities\bin\Debug\Entities.pdb
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\Entities\obj\Debug\Entities.dll
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\Entities\obj\Debug\Entities.pdb

@@ -1,0 +1,9 @@
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\SLC\bin\Debug\SLC.dll
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\SLC\bin\Debug\SLC.pdb
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\SLC\bin\Debug\Entities.dll
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\SLC\bin\Debug\Entities.pdb
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\SLC\obj\Debug\SLC.csproj.Up2Date
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\SLC\obj\Debug\SLC.dll
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\SLC\obj\Debug\SLC.pdb

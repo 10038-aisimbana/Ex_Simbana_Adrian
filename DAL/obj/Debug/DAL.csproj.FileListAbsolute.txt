@@ -1,0 +1,14 @@
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\DAL\bin\Debug\DAL.dll.config
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\DAL\bin\Debug\DAL.dll
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\DAL\bin\Debug\DAL.pdb
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\DAL\bin\Debug\Entities.dll
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\DAL\bin\Debug\EntityFramework.dll
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\DAL\bin\Debug\Entities.pdb
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\DAL\bin\Debug\EntityFramework.xml
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\DAL\obj\Debug\DAL.dll
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\DAL\obj\Debug\DAL.pdb

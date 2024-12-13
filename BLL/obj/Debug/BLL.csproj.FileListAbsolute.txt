@@ -1,0 +1,14 @@
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\BLL\bin\Debug\BLL.dll
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\BLL\bin\Debug\BLL.pdb
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\BLL\bin\Debug\DAL.dll
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\BLL\bin\Debug\Entities.dll
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\BLL\bin\Debug\EntityFramework.dll
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\BLL\bin\Debug\DAL.pdb
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\BLL\bin\Debug\DAL.dll.config
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\BLL\bin\Debug\Entities.pdb
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\BLL\bin\Debug\EntityFramework.xml
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\BLL\obj\Debug\BLL.dll
+D:\ESPE OCT24 - MAR25\Apli. Distribuidas\Ex_Simbaña_Adrian\BLL\obj\Debug\BLL.pdb

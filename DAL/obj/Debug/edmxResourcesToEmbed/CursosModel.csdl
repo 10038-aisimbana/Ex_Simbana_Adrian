@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Cursos_dbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Cursos">
+    <Key>
+      <PropertyRef Name="CursoID" />
+    </Key>
+    <Property Name="CursoID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Descripcion" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Creditos" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Cursos_dbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Cursos" EntityType="Self.Cursos" />
+  </EntityContainer>
+</Schema>
